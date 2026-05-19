@@ -15,7 +15,6 @@ rdkit==2025.09.6   # we likely support other versions,
                    #  but typing is not consistent across rdkit versions, and mypy complain
 biopython>=1.83    # parsing, data access
 antipickle==0.2.0  # save/load heterogeneous python structures
-tmtools>=0.0.3     # Python bindings for the TM-align algorithm
 modelcif>=1.0      # mmcif writing, confirmed to work currently latest 1.0
 
 

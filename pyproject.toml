@@ -39,7 +39,6 @@ module = [
     "scipy.*",
     "seaborn.*",
     "sh.*",
-    "tmtools.*",
     "botocore.*",
     "s3fs.*",
     "biotite.*",
